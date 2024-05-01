@@ -19,6 +19,12 @@ npm test
 npx playwright test
 ```
 
+## Playwright report
+
+```sh
+npx playwright show-report
+```
+
 ## Initialization
 
 How playwright was added to this repo:
