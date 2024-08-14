@@ -1,7 +1,7 @@
 typescript-playwright-cucumber-bdd-demo
 ==
 
-![playwright workflow](https://github.com/mitchallen/typescript-playwright-cucumber-bdd-demo/actions/workflows/playwright.yml/badge.svg)
+[![playwright workflow](https://github.com/mitchallen/typescript-playwright-cucumber-bdd-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/mitchallen/typescript-playwright-cucumber-bdd-demo/actions/workflows/playwright.yml)
 
 A demo of how to test a Web app using TypeScript, Playwright and Cucumber BDD.
 
